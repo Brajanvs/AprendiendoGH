@@ -53,10 +53,10 @@ header {
     cursor: pointer;
 }
 
-.nav__list li:nth-child(1) {
+.nav__list_items li:nth-child(1) {
     padding-right: 10px;
 }
 
-.nav__list li:nth-child(2) {
+.nav__list_items li:nth-child(2) {
     padding-right: 10px;
 }
